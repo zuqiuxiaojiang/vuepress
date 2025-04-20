@@ -9,6 +9,7 @@ avatar: https://theme-hope-assets.vuejs.press/hero/conan.png
 
 titles:
   - ……
+  - ……
 
 footer: false
 ---
