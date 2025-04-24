@@ -14,7 +14,7 @@ export default navbar([
   "/portfolio",
   "/intro",
   {
-    text: '🚶⛩️🏃',
+    text: '🚏🚶⛩️🏃',
     icon: "signs-post",
     children: [
       {
