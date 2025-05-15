@@ -82,7 +82,7 @@ export default hopeTheme({
       },
 */
       "/我/": {
-        hint: "Password: 我",
+        hint: "Password: 文件夹名",
         password: "我",
       },
     },
