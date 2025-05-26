@@ -45,8 +45,20 @@ export default sidebar({
           children: "structure",
         },
         {
+          text: "应急处置流程🈴",
+          prefix: "应急处置流程🈴/",
+          collapsible: true,
+          children: "structure",
+        },
+        {
           text: "安全生产责任制",
           prefix: "安全生产责任制/",
+          collapsible: true,
+          children: "structure",
+        },
+        {
+          text: "安全操作规程🆕",
+          prefix: "安全操作规程🆕/",
           collapsible: true,
           children: "structure",
         },

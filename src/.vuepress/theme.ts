@@ -4,7 +4,8 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+
+  hostname: "https://zuqiuxiaojiang.github.io",
 
   author: {
     name: "YK",
@@ -26,6 +27,10 @@ export default hopeTheme({
   // 页脚
   footer: "默认页脚",
   displayFooter: true,
+
+  // 全屏
+  fullscreen: true,
+
 
   // 博客相关
   blog: {
