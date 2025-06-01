@@ -1,5 +1,5 @@
 ---
-# home: true
+home: false
 portfolio: true
 title: …我…
 icon: user-tie
@@ -8,8 +8,9 @@ name: 我
 avatar: https://theme-hope-assets.vuejs.press/hero/conan.png
 
 titles:
-  - ……
-  - ……
+  - …我…
+  - 我的…
+  - …的我
 
 footer: false
 ---
