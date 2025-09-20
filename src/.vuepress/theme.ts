@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/国旗-球形.svg",
 //转到GitHub，知道的都能找到，无所谓显示与否。
-//  repo: "zuqiuxiaojiang/zuqiuxiaojiang.github.io",
+//  repo: "zuqiuxiaojiang/zuqiuxiaojiang.github.io/vuepress",
 
   docsDir: "src",
 
