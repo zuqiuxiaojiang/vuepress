@@ -5,7 +5,7 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
 
-  hostname: "https://zuqiuxiaojiang.github.io",
+  hostname: "https://zuqiuxiaojiang.github.io/vuepress",
 
   author: {
     name: "YK",
